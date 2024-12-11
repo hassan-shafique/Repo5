@@ -1,0 +1,3 @@
+[submodule "service-interface/RepoA"]
+	path = service-interface/RepoA
+	url = https://github.com/hassan-shafique/RepoA.git
